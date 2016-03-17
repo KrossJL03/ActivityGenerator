@@ -1,0 +1,5 @@
+i hope this works %% true %% true %% true %% true %% 0 %% null %% true
+testing %% false %% false %% false %% true %% 0 %% null %% true
+does this return %% true %% false %% false %% false %% 0 %% null %% true
+i love you %% true %% false %% true %% true %% 0 %% null %% true
+null last completed %% true %% true %% true %% true %% 2 %% Mon Feb 29 16:32:54 CST 2016 %% true
